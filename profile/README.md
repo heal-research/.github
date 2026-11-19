@@ -1,4 +1,4 @@
-![HEAL logo](https://github.com/heal-research/.github/blob/main/images/heal_logo_transparent.png)
+![HEAL logo](https://github.com/heal-research/.github/blob/main/images/HEAL_Logo_landscape_final.png)
 
 ## Welcome
 
